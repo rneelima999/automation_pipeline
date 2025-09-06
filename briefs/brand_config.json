@@ -1,0 +1,11 @@
+{
+    "brand_name": "ActivePulse",
+    "primary_color": "#FF6600",
+    "secondary_color": "#222222",
+    "text_color": "#111111",
+    "banner_bg": "#FFF5EE",
+    "logo_path": "assets/brand/logo.png",
+    "min_logo_height_px": 48,
+    "safe_margins_px": 24
+  }
+  

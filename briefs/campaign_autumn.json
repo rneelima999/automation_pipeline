@@ -1,0 +1,12 @@
+{
+    "campaign_id": "autumn_launch_2025",
+    "target_region": "US",
+    "audience": "Gym enthusiasts",
+    "message_en": "Hydrate smarter. Recover faster.",
+    "products": [
+      {"sku": "SMART_WATER_BOTTLE", "name": "Smart Water Bottle"},
+      {"sku": "MASSAGE_GUN", "name": "Massage Gun"}
+    ],
+    "regions": ["US", "MX", "IN", "CN"]
+  }
+  

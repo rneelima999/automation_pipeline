@@ -1,0 +1,23 @@
+{
+    "US": {
+      "language": "en",
+      "message": "Hydrate smarter. Recover faster.",
+      "font": "assets/fonts/NotoSans-Regular.ttf"
+    },
+    "MX": {
+      "language": "es",
+      "message": "Hidrátate de forma inteligente. Recupérate más rápido.",
+      "font": "assets/fonts/NotoSans-Regular.ttf"
+    },
+    "IN": {
+      "language": "hi",
+      "message": "स्मार्ट तरीके से हाइड्रेट करें। तेजी से रिकवर करें।",
+      "font": "assets/fonts/NotoSansDevanagari-Regular.ttf"
+    },
+    "CN": {
+      "language": "zh-CN",
+      "message": "更聪明地补水，更快地恢复。",
+      "font": "assets/fonts/NotoSansSC-Regular.otf"
+    }
+  }
+  
